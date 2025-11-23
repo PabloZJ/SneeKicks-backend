@@ -17,7 +17,7 @@ public class CorsConfig {
                         .allowedOrigins(
                                 "http://localhost:5173",
                                 "http://localhost:3000",
-                                "https://mysterybox-back.onrender.com"
+                                "https://sneekicks-backend.onrender.com"
                         )
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "PATCH")
                         .allowedHeaders("*")
