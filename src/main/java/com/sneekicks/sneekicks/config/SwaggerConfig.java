@@ -1,4 +1,4 @@
-package com.sneekicks.sneekicks;
+package com.sneekicks.sneekicks.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
